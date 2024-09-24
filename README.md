@@ -31,6 +31,6 @@ Access the admin panel at `http://localhost/admin`.
 ## Tech Stack
 - Laravel
 - FilamentPHP
-- Discord API
+- PostgreSQL
 ## License
 This project is licensed under the MIT License.
